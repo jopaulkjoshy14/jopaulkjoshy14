@@ -17,8 +17,6 @@ Currently exploring frontend development, basic backend concepts, and web securi
 
 ---
 
-## 🚀 Projects
-
 ### 🔐 SecureNotes
 A privacy-focused notes application implementing client-side encryption using the Web Crypto API.  
 Notes are encrypted before storage, ensuring data privacy on the client side.
