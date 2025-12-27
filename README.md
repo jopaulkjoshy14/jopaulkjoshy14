@@ -41,7 +41,8 @@ A responsive registration form demonstrating frontend validation and structured 
 My personal portfolio showcasing projects, skills, and learning progress.
 
 - **Tech:** HTML, CSS, JavaScript  
-- 🔗 Live: https://portfolio-kuf9.onrender.com  
+- 🔗 Live: https://portfolio-kuf9.onrender.com
+- 📂 Repo: https://github.com/jopaulkjoshy14/Portfolio
 
 ---
 
