@@ -27,7 +27,7 @@ A client-side encrypted file-sharing application designed to keep file plaintext
 
 * **Tech:** React, Vite, Bootstrap, Node.js, Express.js, MongoDB Atlas, GridFS, Web Crypto API, ML-KEM-768
 * **Focus:** Client-side encryption, secure key management, encrypted file storage, and post-quantum key encapsulation
-* 🔗 Live: *Add deployment link*
+* 🔗 Live: https://qszkfss-frontend.onrender.com
 * 📂 Repo: *Add repository link*
 
 ---
@@ -49,7 +49,7 @@ A browser-based utility that allows users to encrypt messages and share the resu
 
 * **Tech:** HTML, Bootstrap, JavaScript, Web Crypto API
 * **Focus:** Client-side AES-GCM encryption, QR generation, and browser-based cryptographic workflows
-* 🔗 Live: *Add live link*
+* 🔗 Live: https://cryptographic-treasure-hunt.onrender.com
 * 📂 Repo: *Add repository link*
 
 ---
@@ -63,14 +63,6 @@ A privacy-focused notes application implementing client-side encryption using th
 * **Tech:** HTML, CSS, JavaScript, Web Crypto API, LocalStorage
 * 🔗 Live: https://securenotes-kmpl.onrender.com
 * 📂 Repo: https://github.com/jopaulkjoshy14/SecureNotes
-
-### 📝 Registration Form
-
-A responsive registration form demonstrating frontend validation and structured form handling.
-
-* **Tech:** HTML, CSS, JavaScript
-* 🔗 Live: https://registrationform-37ca.onrender.com
-* 📂 Repo: https://github.com/jopaulkjoshy14/RegistrationForm
 
 ### 🌐 Portfolio Website
 
