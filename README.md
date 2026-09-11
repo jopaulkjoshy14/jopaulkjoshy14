@@ -28,7 +28,7 @@ A client-side encrypted file-sharing application designed to keep file plaintext
 * **Tech:** React, Vite, Bootstrap, Node.js, Express.js, MongoDB Atlas, GridFS, Web Crypto API, ML-KEM-768
 * **Focus:** Client-side encryption, secure key management, encrypted file storage, and post-quantum key encapsulation
 * 🔗 Live: https://qszkfss-frontend.onrender.com
-* 📂 Repo: *Add repository link*
+* 📂 Repo: https://github.com/jopaulkjoshy14/Quantum-Safe-ZK-File-Sharing
 
 ---
 
@@ -39,7 +39,7 @@ A web application for running image-analysis experiments and comparing results t
 * **Tech:** React, Vite, JavaScript, Web Workers, HTML, CSS
 * **Focus:** Browser-based processing, asynchronous workflows, experiment management, and result visualization
 * 🔗 Live: https://parallel-ai-image-analysis.onrender.com
-* 📂 Repo: *Add repository link*
+* 📂 Repo: https://github.com/jopaulkjoshy14/Parallel-AI-Image-Analysis
 
 ---
 
@@ -50,7 +50,7 @@ A browser-based utility that allows users to encrypt messages and share the resu
 * **Tech:** HTML, Bootstrap, JavaScript, Web Crypto API
 * **Focus:** Client-side AES-GCM encryption, QR generation, and browser-based cryptographic workflows
 * 🔗 Live: https://cryptographic-treasure-hunt.onrender.com
-* 📂 Repo: *Add repository link*
+* 📂 Repo: https://github.com/jopaulkjoshy14/Cryptographic-Treasure-Hunt
 
 ---
 
