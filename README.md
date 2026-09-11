@@ -1,10 +1,8 @@
 # Hi, I'm Jopaul K Joshy 👋
 
-I'm a student developer learning full-stack web development by building small, complete, and deployable applications.
+I'm a student developer learning full-stack web development by building practical, deployable applications.
 
-I enjoy turning ideas into working projects, focusing on clean user interfaces, practical JavaScript logic, and understanding how applications work end-to-end.
-
-Currently strengthening my skills in React, Node.js, Express.js, MongoDB, and web security fundamentals.
+I enjoy creating clean user interfaces, working through JavaScript logic, and understanding how applications function end-to-end. Currently strengthening my skills in React, Node.js, Express.js, MongoDB, and web security.
 
 ---
 
@@ -37,7 +35,7 @@ A client-side encrypted file-sharing application designed to keep file plaintext
 A web application for running image-analysis experiments and comparing results through a structured interface.
 
 * **Tech:** React, Vite, JavaScript, Web Workers, HTML, CSS
-* **Focus:** Browser-based processing, asynchronous workflows, experiment management, and result visualization
+* **Focus:** Browser-based image processing, asynchronous workflows, experiment management, and result visualization
 * 🔗 Live: https://parallel-ai-image-analysis.onrender.com
 * 📂 Repo: https://github.com/jopaulkjoshy14/Parallel-AI-Image-Analysis
 
